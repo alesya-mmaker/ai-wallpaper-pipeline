@@ -1,0 +1,19 @@
+# Секреты
+.env
+client_secret.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Результаты и инструменты
+output/
+tools/
+
+# Личные рабочие заметки и настройки редактора
+MESSAGE.md
+PLAN.md
+REPORT.md
+.claude/
