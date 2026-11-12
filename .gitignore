@@ -17,3 +17,6 @@ MESSAGE.md
 PLAN.md
 REPORT.md
 .claude/
+
+# Внутренние скрипты
+record_demo.py
